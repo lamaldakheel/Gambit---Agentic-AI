@@ -1,1 +1,1 @@
-# Gambit---Agentic-AI
+# Gambit-Agentic-AI
